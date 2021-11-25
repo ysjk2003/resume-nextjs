@@ -5,16 +5,12 @@ const presentation: IPresentation.Payload = {
 
   list: [
     {
-      title: 'Lorem ipsum',
-      subTitle: 'consectetur adipiscing elit',
+      title: '우물 안 개구리였던 썰',
+      subTitle: 'GDG Daejeon Hello 2020',
       at: '2017-10',
       descriptions: [
         {
-          content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        },
-        {
-          content: 'Slideshare:',
-          postHref: 'https://www.slideshare.net//',
+          content: '취업하기 전 자만심에 빠져 있던 이야기와 취업 후 깨달았던 것들',
         },
       ],
     },

@@ -5,27 +5,16 @@ const experience: IExperience.Payload = {
   disableTotalPeriod: false,
   list: [
     {
-      title: 'Foo Company',
-      position: 'Node.js Developer',
-      startedAt: '2018-02',
+      title: 'SI Analytics',
+      position: 'Frontend Developer',
+      startedAt: '2019-08',
       descriptions: [
-        'OTA Service Provider',
-        'Data modeling and Mashup API development',
-        'Systems Engineering and DevOps',
+        '위성영상 어노테이팅 툴 클라이언트 개발',
+        '위성영상 자동 분석 플랫폼 클라이언트 개발',
+        '위성영상 운량 분석 플랫폼 개발',
+        '파악 & 관리되고 있지 않았던 프론트 기술부채 파악 및 정리',
       ],
-      skillKeywords: ['Node.js', 'TypeScript', 'Express.js', 'Mashup API', 'AWS'],
-    },
-    {
-      title: 'Bar Co., Ltd.',
-      position: 'Software Enginner',
-      startedAt: '2016-10',
-      endedAt: '2017-11',
-      descriptions: [
-        'Online Commerce IT Startup',
-        'Development of reservation system and service worker',
-        'AWS infrastructure and RDBMS maintenance and development',
-      ],
-      skillKeywords: ['Node.js', 'MySQL', 'AWS'],
+      skillKeywords: ['React.js', 'TypeScript', 'Electron', 'Sass', 'gRpc-web', 'protocol buffer'],
     },
   ],
 };
